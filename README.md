@@ -1,2 +1,2 @@
 # dota2-gameplay-tools
-Advanced gameplay visualization and interface enhancement framework for Dota 2 experimentation and learning purposes.
+A lightweight UI and data visualization toolkit for Dota 2 designed for interface prototyping, gameplay analysis, and experimental feature development in a sandbox environment.
