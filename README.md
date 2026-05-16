@@ -1,30 +1,35 @@
-⚔️ dota2-gameplay-tools (Internal/External Utility) 🚀
-A lightweight, high-performance cheat platform and UI overlay toolkit for Dota 2. Designed for real-time match analysis, hidden data visualization, and game mechanics automation. 🔥
+# ⚔️ dota2-gameplay-tools (Internal/External Utility) 🚀
 
-📋 Overview
+A lightweight, high-performance cheat platform and UI overlay toolkit for **Dota 2**. Designed for real-time match analysis, hidden data visualization, and game mechanics automation. 🔥
+
+---
+
+### 📋 Overview
+
 This project provides a modular framework for interacting with the Dota 2 game client, rendering custom ESP overlays, and bypassing standard interface limitations. Gain a massive tactical advantage by tracking hidden enemy information, automating complex combos, and visualizing critical data directly on your screen. 👁️‍🗨️
 
-✨ Features
-👁️ ESP & Advanced Visuals: * Full maphack assistance and hidden enemy position indicators.
+---
 
-Hidden particle rendering (e.g., Sunstrike, Torrent, Ice Blast animations in fog).
+### ✨ Features
 
-Real-time enemy ability and ultimate cooldown tracking.
+#### 👁️ ESP & Advanced Visuals
+* **Full Maphack Assistance:** Reveal hidden enemy positions and movements on the map.
+* **Hidden Particle Rendering:** Track skills like *Sunstrike*, *Torrent*, and *Ice Blast* animations directly through the fog of war.
+* **Cooldown Tracking:** Monitor real-time status of enemy abilities and ultimate spells.
 
-🎨 UI Overlay Framework: * Sleek, fully customizable in-game menu (Click/Draw GUI).
+#### 🎨 UI Overlay Framework
+* **Custom Click/Draw GUI:** Sleek, fully interactive and customizable in-game menu.
+* **FPS-Friendly Layout:** Highly optimized HUD modifications that preserve game performance.
 
-Highly optimized HUD modification layout that keeps your FPS smooth.
+#### ⏱️ Event Tracking System
+* **Ward Detection:** Immediate alerts upon enemy *Observer* or *Sentry* ward placements.
+* **Objective Timers:** Perfect indicators for neutral camp stacks, pull windows, and Roshan status.
 
-⏱️ Event Tracking System: * Immediate alerts for enemy ward placements (Observer/Sentry detection).
+#### 🤖 Automation & Scripts
+* **Smart Combos:** Configurable one-button execution for complex heroes (e.g., Invoker, Tinker, Skywrath Mage).
+* **Last-Hit Helper:** Automated assistance for flawless last-hitting and denying.
+* **Instant Auto-Disables:** Reaction scripts for immediate item usage (e.g., instant Hex, Orchid, or BKB) upon enemy initiation.
 
-Perfect timers for neutral camp stacks, pull times, and Roshan status.
-
-🤖 Automation & Scripts: * Configurable one-button combo execution for complex heroes (e.g., Invoker, Tinker, Skywrath Mage).
-
-Smart auto-last hit/deny helpers.
-
-Instant auto-disables (e.g., instant Hex, Orchid, or BKB usage upon enemy initiation).
-
-⚡ Lightweight & Secure: * Performance-oriented code structure with zero lag.
-
-Designed with a focus on low resource consumption and standard client security bypasses.
+#### ⚡ Lightweight & Secure
+* **Zero Lag:** Performance-oriented code structure designed for smooth integration.
+* **Security Focused:** Engineered with a strong emphasis on low resource footprint and standard client security bypasses.
